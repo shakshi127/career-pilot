@@ -27,7 +27,6 @@ import ResumeBuilder from './pages/ResumeBuilder';
 import TextToResume from './pages/TextToResume';
 import About from './components/portfolio/templates/Tech_Startup/About';
 
-
 import JobTracker from './pages/JobTracker';
 import { Community, NotFound } from './pages';
 import InterviewPrep from './pages/InterviewPrep';

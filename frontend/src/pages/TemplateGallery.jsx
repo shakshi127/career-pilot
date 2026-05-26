@@ -9,8 +9,7 @@ import CulinaryAbout from "../components/portfolio/templates/Culinary_Restaurant
 import TechStartupHero from "../components/portfolio/templates/Tech_Startup/Hero";
 import GeometricShapesAbout from "../components/portfolio/templates/Geometric_Shapes/About";
 import ChooseAdventurePortfolio from "../components/portfolio/templates/Choose_Adventure/index";
-import Navbar from '../components/Navbar';
-import GeometricShapesAbout from "../components/portfolio/templates/Geometric_Shapes/About";
+import Navbar from '../components/Navbar'
 
 function FilterSelect({ value, onChange, options, className = "" }) {
   const [open, setOpen] = useState(false);

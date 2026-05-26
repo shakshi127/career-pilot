@@ -1,3 +1,24 @@
+# [1.28.0](https://github.com/anurag3407/career-pilot/compare/v1.27.0...v1.28.0) (2026-05-26)
+
+
+### Features
+
+* add validation for missing AI API environment variables ([32f6a23](https://github.com/anurag3407/career-pilot/commit/32f6a231b92335938ea178b35fd201badae8c019))
+
+# [1.27.0](https://github.com/anurag3407/career-pilot/compare/v1.26.0...v1.27.0) (2026-05-26)
+
+
+### Features
+
+* **portfolio:** build complete Pinterest Masonry portfolio template ([788b385](https://github.com/anurag3407/career-pilot/commit/788b385e4a9ad0ebb9b078c9a8707be9611c7f8e))
+
+# [1.26.0](https://github.com/anurag3407/career-pilot/compare/v1.25.0...v1.26.0) (2026-05-26)
+
+
+### Features
+
+* **jobs:** add Clear All Filters button to job search sidebar ([#1810](https://github.com/anurag3407/career-pilot/issues/1810)) ([fc848b9](https://github.com/anurag3407/career-pilot/commit/fc848b9ad320a678be4a6dc1954365e8807ed348))
+
 # [1.25.0](https://github.com/anurag3407/career-pilot/compare/v1.24.0...v1.25.0) (2026-05-26)
 
 

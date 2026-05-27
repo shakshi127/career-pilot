@@ -12,6 +12,7 @@ import GeometricShapesAbout from "../components/portfolio/templates/Geometric_Sh
 import GeometricShapesHero from "../components/portfolio/templates/Geometric_Shapes/Hero";
 import LiquidGlass from "../components/portfolio/templates/Liquid_Glass/index";
 import PlayingCardsPortfolio from "../components/portfolio/templates/Playing_Cards";
+import WatercolorArtisticHero from "../components/portfolio/templates/Watercolor_Artistic/Hero";
 import Navbar from '../components/Navbar'
 // import Hero from "../components/portfolio/templates/Holographic/Hero";
 // import ChooseAdventurePortfolio from "../components/portfolio/templates/Choose_Adventure/index";

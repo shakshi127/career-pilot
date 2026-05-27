@@ -1,4 +1,4 @@
-# 1.0.0 (2026-05-27)
+
 
 
 ### Bug Fixes
@@ -165,6 +165,7 @@
 * **weeklyDigest:** implement actual job staggering instead of misleading delay:0 ([d20af76](https://github.com/shakshi127/career-pilot/commit/d20af760f80290117ad3f822ba12071b8ef9db0f))
 * **weeklyDigest:** use _id instead of uid for job payload and worker lookup ([f3c8a0f](https://github.com/shakshi127/career-pilot/commit/f3c8a0f799494fbcfa94e17ef9d84d8229acce04))
 * wrap escrow release and challenge update in MongoDB transaction ([#1274](https://github.com/shakshi127/career-pilot/issues/1274)) ([12f8ed7](https://github.com/shakshi127/career-pilot/commit/12f8ed7ac9bf3a9627c61ef3a4aec47eaf444b25))
+* align testimonial ratings with UI screenshot ([bb6c4fa](https://github.com/anurag3407/career-pilot/commit/bb6c4fa3bb8191ee6cbdc5cddeae369c8259a126))
 
 
 ### Features
